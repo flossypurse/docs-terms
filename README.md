@@ -1,1 +1,1 @@
-# static-site-framework
+# docs-terms
